@@ -1,0 +1,8 @@
+.header_bar {
+  background: #e7e7e7;
+  width: 100dvw;
+  box-sizing: border-box;
+  padding: 20px 15px;
+  align-items: center;
+  justify-content: space-between;
+}
